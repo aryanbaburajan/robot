@@ -1,0 +1,10 @@
+https://inh.wikipedia.org/wiki/Special:RecentChanges HTTP Error 500: Internal Server Error
+https://kr.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://kr.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://na.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://kr.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://na.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://kr.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://na.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://kr.wikipedia.org/wiki/ HTTP Error 404: Not Found
+https://na.wikipedia.org/wiki/ HTTP Error 404: Not Found
